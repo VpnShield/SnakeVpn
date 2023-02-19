@@ -2,7 +2,7 @@
 "Title": "Vpn Shield | Free ⚡️",
 "Description": "لطفا برای حمایت و دریافت فیلترشکن‌های متصل بیشتر حتما در کانال تلگرام ما عضو شوید ♥️",
 "Link": "https://t.me/+owfSy5ksCtRlNjJk",
-"Color": "#00BCD4",
+"Color": "#6495ED",
 "Button": "عضویت",
-"Show": "off"
+"Show": "on"
 }
